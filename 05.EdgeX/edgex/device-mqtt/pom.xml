@@ -19,7 +19,7 @@
 	<properties>
 		<assembley-plugin.version>2.5.5</assembley-plugin.version>
 		<apache-commons.version>3.0</apache-commons.version>
-		<jboss-resteasy.version>3.0.19.Final</jboss-resteasy.version>
+		<jboss-resteasy.version>4.5.7.Final</jboss-resteasy.version>
 		<paho.version>1.1.0</paho.version>
 		<core-metadata-client.version>0.5.0-SNAPSHOT</core-metadata-client.version>
 		<core-domain.version>0.5.0-SNAPSHOT</core-domain.version>
